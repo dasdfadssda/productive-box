@@ -16,9 +16,4 @@
    <br/>
    When are you most productive during the day?
    <br/>
-   Let's check out in gist!
-</p>
-
----
-
-> This project is inspired by an awesome pinned-gist project.<br/>Find more in https://github.com/matchai/awesome-pinned-gists
+  
